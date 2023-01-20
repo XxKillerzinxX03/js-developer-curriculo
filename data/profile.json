@@ -1,0 +1,57 @@
+{
+  "name": "André Novais Lima",
+  "photo": "https://avatars.githubusercontent.com/u/XxKillerzinxX03",
+  "job": "Front end Dev",
+  "location": "Osasco - SP",
+  "phone": "(11) 96421-7833",
+  "email": "andrenovais03@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      }
+    ],
+    "softSkills": [
+      "Organização",
+      "Flexibilidade",
+      "Liderança",
+      "Trabalho em equipe",
+      "Empatia"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/XxKillerzinxX03/my-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de Curriculo",
+      "url": "https://github.com/XxKillerzinxX03/js-developer-curriculo",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Busco minha primeira oportunidade no Mercado de Trabalho"
+    }
+  ]
+}
