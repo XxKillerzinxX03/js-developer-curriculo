@@ -1,20 +1,12 @@
 {
   "name": "André Novais Lima",
   "photo": "https://avatars.githubusercontent.com/u/122179908?s=400&u=4caca72cbb31ce5dd5e45a908e6bab51951d7142&v=4",
-  "job": "Front end Dev",
+  "job": "FrontEnd Dev",
   "location": "Osasco - SP",
   "phone": "(11) 96421-7833",
   "email": "andrenovais03@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-      },
       {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
@@ -22,6 +14,18 @@
       {
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
