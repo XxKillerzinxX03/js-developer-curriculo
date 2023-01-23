@@ -43,14 +43,31 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/XxKillerzinxX03/my-pokedex",
+      "name": "Pokedex criada com Curso Ministrado na DIO",
+      "url": "https://xxkillerzinxx03.github.io/my-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de Curriculo",
-      "url": "https://github.com/XxKillerzinxX03/js-developer-curriculo",
+      "name": "Meu Repositório no Github",
+      "url": "https://github.com/XxKillerzinxX03?tab=repositories",
       "github": true
+    },
+    {
+      "name": "Meu perfil no LinkedIn",
+      "url": "https://www.linkedin.com/in/andre-novais-lima",
+      "github": false
+    },
+    {
+      "name": "Curriculo Detalhado",
+      "url": "https://raw.githubusercontent.com/XxKillerzinxX03/js-developer-curriculo/main/data/AndreCurriculo.pdf",
+      "github": false
+    }
+  ],
+  "formation": [
+    {
+      "name": "Fundação Bradesco",
+      "period": "2008 - 2020",
+      "description": "Escola de Ensino Fundamental e Médio"
     }
   ],
   "professionalExperience": [

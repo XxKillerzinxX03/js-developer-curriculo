@@ -49,6 +49,19 @@ function updatePortfolio(profileData) {
     }).join('')
 }
 
+function updateFormation(profileData) {
+    const formation = document.getElementById('profile.formation')
+    formation.innerHTML = profileData.formation.map(form => {
+        return `
+            <li>
+                <h3 class="title">${form.name}</h3>
+                <p class="period">${form.period}</p>
+                <p>${form.description}</p>
+            </li>
+        `
+    }).join('')
+}
+
 function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience')
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
