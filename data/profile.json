@@ -1,7 +1,7 @@
 {
   "name": "André Novais Lima",
   "photo": "https://avatars.githubusercontent.com/u/122179908?s=400&u=4caca72cbb31ce5dd5e45a908e6bab51951d7142&v=4",
-  "job": "FrontEnd Dev",
+  "job": "TI / FrontEnd Dev",
   "location": "Osasco - SP",
   "phone": "(11) 96421-7833",
   "email": "andrenovais03@gmail.com",
@@ -77,7 +77,9 @@
   ],
   "professionalExperience": [
     {
-      "name": "Busco minha primeira oportunidade no Mercado de Trabalho"
+      "name": "Colégio Albert Sabin",
+      "period": "2023 - até o momento",
+      "description": "Funcionário de TI"
     }
   ]
 }
