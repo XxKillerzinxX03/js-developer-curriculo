@@ -78,8 +78,13 @@
   "professionalExperience": [
     {
       "name": "Colégio Albert Sabin",
-      "period": "2023 - até o momento",
+      "period": "04/2023 - 07/2024",
       "description": "Funcionário de TI"
+    },
+    {
+      "name": "Colégio Vital Brazil",
+      "period": "07/2024 - até o momento",
+      "description": "Funcionário de Tecnologia Educacional"
     }
   ]
 }
