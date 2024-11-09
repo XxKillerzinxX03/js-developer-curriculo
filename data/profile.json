@@ -24,6 +24,14 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
         "name": "VSCode",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
@@ -43,6 +51,16 @@
   ],
   "portfolio": [
     {
+      "name": "Aplicação de Gerenciamento Bancário",
+      "url": "https://github.com/XxKillerzinxX03/gerenciamento-bancario",
+      "github": true
+    },
+    {
+      "name": "Calculadora de IMC",
+      "url": "https://github.com/XxKillerzinxX03/calculadora-de-imc",
+      "github": true
+    },
+    {
       "name": "Pokedex criada com Curso Ministrado na DIO",
       "url": "https://xxkillerzinxx03.github.io/my-pokedex",
       "github": true
@@ -53,12 +71,7 @@
       "github": true
     },
     {
-      "name": "Meu perfil no LinkedIn",
-      "url": "https://www.linkedin.com/in/andre-novais-lima",
-      "github": false
-    },
-    {
-      "name": "Curriculo Detalhado",
+      "name": "Meu Curriculo Detalhado",
       "url": "https://raw.githubusercontent.com/XxKillerzinxX03/js-developer-curriculo/main/data/AndreCurriculo.pdf",
       "github": false
     }
