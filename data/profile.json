@@ -24,6 +24,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
         "name": "Python",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
@@ -63,6 +67,11 @@
     {
       "name": "Pokedex criada com Curso Ministrado na DIO",
       "url": "https://xxkillerzinxx03.github.io/my-pokedex",
+      "github": true
+    },
+    {
+      "name": "Consultor de Signos",
+      "url": "https://github.com/XxKillerzinxX03/signos",
       "github": true
     },
     {
