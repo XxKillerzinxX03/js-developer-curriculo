@@ -1,7 +1,7 @@
 {
   "name": "André Novais Lima",
   "photo": "https://avatars.githubusercontent.com/u/122179908?s=400&u=4caca72cbb31ce5dd5e45a908e6bab51951d7142&v=4",
-  "job": "TI | Suporte Tecnico | Administrador de Redes",
+  "job": "TI | Suporte Tecnico | Administração de Redes",
   "location": "Osasco - SP",
   "phone": "(11) 96421-7833",
   "email": "andrenovais03@gmail.com",
@@ -50,7 +50,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
+    "Inglês (avançado)",
     "Espanhol (básico)"
   ],
   "portfolio": [
@@ -92,16 +92,21 @@
       "description": "Escola de Ensino Fundamental e Médio"
     },
     {
-      "name": "Anhanguera",
+      "name": "Anhanguera (Graduação)",
       "period": "2023 - 2025",
       "description": "Ensino Superior em Análise e Desenvolvimento de Sistemas"
+    },
+    {
+      "name": "Anhanguera (Pós Graduação)",
+      "period": "2025 - 2026",
+      "description": "Pós Graduação em Rede de Computadores"
     }
   ],
   "professionalExperience": [
     {
       "name": "Colégio Albert Sabin",
       "period": "04/2023 - 07/2024",
-      "description": "Funcionário de TI"
+      "description": "Funcionário de Tecnologia da Informação"
     },
     {
       "name": "Colégio Vital Brazil",
@@ -111,7 +116,7 @@
     {
       "name": "Clinica ComVida",
       "period": "12/2024 - atualmente",
-      "description": "Auxiliar Administrativo: Atividades administrativas com ênfase em TI"
+      "description": "Suporte Técnico; Manutenção de computadores; Administração de redes"
     }
   ]
 }
